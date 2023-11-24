@@ -109,9 +109,9 @@ License: You must have a valid license purchased only from themeforest(the above
                 <!--begin::Header Mobile-->
                 <div id="kt_header_mobile" class="header-mobile">
                     <!--begin::Logo-->
-                    <a href="index.html">
+                    <!-- <a href="index.html">
                         <img alt="Logo" src="assets/media/logos/logo-default.png" class="max-h-30px" />
-                    </a>
+                    </a> -->
                     <!--end::Logo-->
                     <!--begin::Toolbar-->
                     <div class="d-flex align-items-center">

@@ -114,9 +114,9 @@ if (isset($_GET['id'])) {
                 <!--begin::Header Mobile-->
                 <div id="kt_header_mobile" class="header-mobile">
                     <!--begin::Logo-->
-                    <a href="index.html">
+                    <!-- <a href="index.html">
                         <img alt="Logo" src="..." class="max-h-30px" />
-                    </a>
+                    </a> -->
                     <!--end::Logo-->
                     <!--begin::Toolbar-->
                     <div class="d-flex align-items-center">
