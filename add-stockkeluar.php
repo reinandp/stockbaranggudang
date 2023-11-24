@@ -105,7 +105,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                 }
             } else {
                 // Simpan pesan kesalahan dalam session
-                $_SESSION['error_message'] = 'Jumlah kg melebihi jumlah stock'. $jumlah_stock . 'kg';
+                $_SESSION['error_message'] = 'Sisa Stok: '. $jumlah_stock . 'kg';
                 // Redirect kembali ke halaman add-stockkeluar
                 header("Location: add-stockkeluar.php");
                 exit();
