@@ -1,6 +1,6 @@
 <?php
 // Buat koneksi ke database
-$db = new mysqli('localhost', 'root', '', 'stockbarangikan');
+$db = new mysqli('localhost', 'u346095446_reinand', 'XiaoWang22', 'u346095446_stockbarang');
 if ($db->connect_error) {
     die("Connection failed: " . $db->connect_error);
 }
